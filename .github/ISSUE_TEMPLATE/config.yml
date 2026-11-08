@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: https://github.com/KyleKeane/AxKit/security/advisories/new
+    about: Report it privately in the code repository, not as an issue (its SECURITY.md).
+  - name: What a report sent from axKit contains
+    url: https://github.com/KyleKeane/AxKit/blob/main/PRIVACY.md
+    about: PRIVACY.md of the code repository says exactly what F4 sends and what it never does.
