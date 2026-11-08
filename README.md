@@ -7,7 +7,8 @@ for a blind developer who uses the NVDA screen reader, shared in case they help 
 
 Most issues here are sent from inside axKit: F4 in any of its windows (or axKit menu, Send a report) opens a report,
 the user types a few words and presses Enter. The report is saved on the user's computer first and then posted here
-as an issue by axKit's own account, `axkit-reporter`, so that nobody has to sign in. It ends with one line,
+as an issue with the maintainer's reporter token, so that nobody has to sign in; the author shown is therefore the
+maintainer, and the report's last line tells where it came from. It ends with one line,
 `Sent from axKit <version> with F4; reporter <id>`, where the id is a random id of that install of axKit, not of a
 person. What else a report carries, and what never does, is said in axKit's
 [PRIVACY.md](https://github.com/KyleKeane/AxKit/blob/main/PRIVACY.md) and in the design,
